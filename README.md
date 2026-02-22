@@ -15,4 +15,4 @@ In a CMD/Terminal window, run the command `python MaunziNet.py` (Windows) or `py
 - AdBlocker (called MaunziBlock)
 
 # Upcoming features
-- Cookies
+- Opening HTML-Files from Disk
