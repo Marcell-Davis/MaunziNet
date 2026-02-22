@@ -4,7 +4,7 @@ A new PyQt6-based Internet Browser!
 # Prerequsities
 - Python
 - PyQt6 (install via python -m pip install PyQt6)
-- PyQT6-WebEngine (install via python -m pip install PyQt6-WebEngine)
+- PyQt6-WebEngine (install via python -m pip install PyQt6-WebEngine)
 
 # How to run
 In a CMD/Terminal window, run the command `python MaunziNet.py` (Windows) or `python3 MaunziNet.py` (Linux).
