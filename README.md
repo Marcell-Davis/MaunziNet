@@ -16,3 +16,5 @@ In a CMD/Terminal window, run the command `python MaunziNet.py` (Windows) or `py
 
 # Upcoming features for 1.2
 - Opening HTML-Files from Disk
+- Incognito Mode
+- A startpage
