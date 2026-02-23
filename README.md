@@ -14,5 +14,5 @@ In a CMD/Terminal window, run the command `python MaunziNet.py` (Windows) or `py
 - Ability to download files
 - AdBlocker (called MaunziBlock)
 
-# Upcoming features
+# Upcoming features for 1.2
 - Opening HTML-Files from Disk
